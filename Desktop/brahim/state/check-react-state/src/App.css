@@ -1,0 +1,44 @@
+.Profile{
+  background-color: #446063;
+  color: #ccd4dd;
+  display: flex;
+  flex-direction: column;
+  width: 600px;
+  height: 800px;
+  justify-content: space-around;
+  margin-left: 550px;
+  
+  text-align: center;
+  margin-top: 70px;
+  
+    border: 2px solid #000;
+    -webkit-border-radius: 12px / 24px;
+    -moz-border-radius:    12px / 24px; 
+    border-radius:         12px / 24px; 
+  
+}
+.pasProfile{
+  background-color: #446063;
+  display: flex;
+  flex-direction: column;
+  width: 600px;
+  height: 800px;
+  justify-content: space-around;
+  margin-left: 550px;
+  
+  text-align: center;
+  margin-top: 70px;
+  
+    border: 2px solid #000;
+    -webkit-border-radius: 12px / 24px;
+    -moz-border-radius:    12px / 24px; 
+    border-radius:         12px / 24px; 
+}
+button{
+  width: 200px;
+  margin-left: 160px;
+}
+
+body{
+  background-color : #141E1D;
+}
